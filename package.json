@@ -8,9 +8,9 @@
     "start": "yarn build && node ./dist/main.js"
   },
   "dependencies": {
-    "typescript": "^3.6.3"
+    "typescript": "3.8.3"
   },
   "devDependencies": {
-    "@types/node": "^12.7.7"
+    "@types/node": "13.13.0"
   }
 }
